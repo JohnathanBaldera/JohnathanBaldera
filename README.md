@@ -4,10 +4,10 @@
 
 
 ## Quick Intro
-- 👋  Hi, I’m @JohnathanBaldera
-- 👀  I’m interested in Personal Finance, MMA/WWE, and Video Games.
-- 🌱  I’m currently learning many different things! I am about to start my Master's in Computer Science at Georgia Tech and am preparing for the upcoming coursework. I am also always practicing Data Structures and Algorithms.  I find doing algorithmic problems fun when there is no pressure.  Other than that, I am just working on projects that I am passionatte about and learning whatever I need to so that I can complete those projects. 
-- 📫  Reach me at JohnathanBaldera@gmail.com or https://www.linkedin.com/in/johnathanbaldera/
+-  Hi, I’m @JohnathanBaldera
+-  I’m interested in Personal Finance, MMA/WWE, and Video Games.
+-  I’m currently learning many different things! I am about to start my Master's in Computer Science at Georgia Tech and am preparing for the upcoming coursework. I am also always practicing Data Structures and Algorithms.  I find doing algorithmic problems fun when there is no pressure.  Other than that, I am just working on projects that I am passionatte about and learning whatever I need to so that I can complete those projects. 
+-  Reach me at JohnathanBaldera@gmail.com or https://www.linkedin.com/in/johnathanbaldera/
 
 ## About Me
 
