@@ -4,14 +4,12 @@
 
 
 ## Quick Intro
--  Hi, I’m @JohnathanBaldera
--  I’m interested in Personal Finance, MMA/WWE, and Video Games.
--  I’m currently learning many different things! I am about to start my Master's in Computer Science at Georgia Tech and am preparing for the upcoming coursework. I am also always practicing Data Structures and Algorithms.  I find doing algorithmic problems fun when there is no pressure.  Other than that, I am just working on projects that I am passionatte about and learning whatever I need to so that I can complete those projects. 
--  Reach me at JohnathanBaldera@gmail.com or https://www.linkedin.com/in/johnathanbaldera/
+-  Software Engineer @ Striveworks
+-  Based in Austin, TX
 
 ## About Me
 
-I am currently an Army soldier who is making the transition to the civillian sector.  I serve as a 35T - Military Intelligence Systems Maintainer/Integrator which carries responisibilities similar to System Engineers.  As I started thinking about transitioning, I started to think about what I really want to do as I get more choice outside of the military.  Software Engineering is the track that I decided to jump on as it's the one I most enjoy.  So here I am, coding and building projects that I am passionate about.
+I am a US Army Veteran.  I served for 8 years as a Systems Engineer before becoming transitioning to being a Software Engineer.  I appreciate easy to read, and pragmatic code.  I love to teach and mentor.  You may catch me being the loud one in a group of quiet developers. 
 
 <!---
 JohnathanBaldera/JohnathanBaldera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
