@@ -1,6 +1,6 @@
 ## My Coding Experience Summed Up in a GIF
 
-![](https://media.giphy.com/media/3o752eGiFHjtwVoTzq/source.gif)
+![](https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif)
 
 
 ## Quick Intro
