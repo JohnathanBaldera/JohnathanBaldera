@@ -1,4 +1,3 @@
-## My Coding Experience Summed Up in a GIF
 
 ![](https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif)
 
