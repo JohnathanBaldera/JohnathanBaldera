@@ -1,14 +1,6 @@
 
-![](https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif)
+![https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif](https://giphy.com/gifs/the-it-crowd-typing-office-AhjXalGPAfJg4)
 
-
-## Quick Intro
--  Software Engineer @ Striveworks
--  Based in Austin, TX
-
-## About Me
-
-I am a US Army Veteran.  I served for 8 years as a Systems Engineer before becoming transitioning to being a Software Engineer.  I appreciate easy to read, and pragmatic code.  I love to teach and mentor.  You may catch me being the loud one in a group of quiet developers. 
 
 <!---
 JohnathanBaldera/JohnathanBaldera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
