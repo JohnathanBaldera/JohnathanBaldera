@@ -1,5 +1,5 @@
 
-![Typing while there's a fire]("https://giphy.com/gifs/the-it-crowd-typing-office-AhjXalGPAfJg4.gif")
+![Typing while there's a fire](https://64.media.tumblr.com/1fc81a5126cad41b6b4c7738598b0228/tumblr_nerwu3jiu11sgl0ajo1_500.gifv)
 
 
 <!---
